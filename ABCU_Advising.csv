@@ -1,0 +1,11 @@
+Course Name,Course Number,Prerequisites,Department ,CloseDate ,WinningBid ,VehicleID,ReceiptNumber ,Fund
+Introduction to Computer Science,CSCI100,,,,,,,
+Introduction to Programming in C++,CSCI101,CSCI100,,,,,,
+Data Structures,CSCI200,CSCI101,,,,,,
+Introduction to Algorithms,CSCI300,"CSCI200, MATH201",,,,,,
+Advanced Programming in C++,CSCI301,CSCI101,,,,,,
+Operating Systems,CSCI350,CSCI300,,,,,,
+Large Software Development,CSCI400,"CSCI301, CSCI350",,,,,,
+Discrete Mathematics,MATH201,,,,,,,
+,,,,,,,,
+,,,,,,,,
